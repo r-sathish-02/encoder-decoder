@@ -72,19 +72,18 @@ endmodule
 ```
 
 ## RTL Schematic:
-1.Decoder:![deexp8dia3](https://github.com/r-sathish-02/encoder-decoder/assets/118787261/235c139f-e87e-4745-9db5-97c3a7450259)
-
+## 1.Decoder:
 ![deexp8dia1](https://github.com/r-sathish-02/encoder-decoder/assets/118787261/ce67ffff-5071-4939-a8ed-a9b576a9affb)
 
-2.Encoder:
+## 2.Encoder:
 ![deexp8dia2](https://github.com/r-sathish-02/encoder-decoder/assets/118787261/4bdd2e6e-809f-4946-a75a-aecd56eb96e2)
 
 
 ## Timing Diagram:
-1.Decoder:
+## 1.Decoder:
 ![deexp8dia3](https://github.com/r-sathish-02/encoder-decoder/assets/118787261/0839b5a1-e026-4f9f-a08c-c866dafd03ed)
 
-2.Encoder:
+## 2.Encoder:
 ![deexp8dia4](https://github.com/r-sathish-02/encoder-decoder/assets/118787261/e3d59573-91df-4b52-992f-5c6805981bed)
 
 
